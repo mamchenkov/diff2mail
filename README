@@ -1,0 +1,3 @@
+diff2mail.pl is a Perl script that would compare files at 2 URLs and will send out a difference by email.
+The email contains both HTML and text part, with text being a standard unified diff, and HTML being a 
+syntax highlighted version of the unified diff.
